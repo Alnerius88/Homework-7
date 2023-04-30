@@ -8,6 +8,7 @@ public class Main {
         task6 ();
         task7 ();
         task8 ();
+        System.out.println("Я совершенно превратно понял 7ую задачу и бился над ней 3 дня");
     };
     public static void task1 () {
         System.out.println("Задача 1");
